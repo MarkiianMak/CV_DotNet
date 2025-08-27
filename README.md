@@ -4,9 +4,9 @@ Motivated and goal-oriented aspiring .NET Developer with hands-on experience in 
 
 ## 📌 Key Skills
 - C#, .NET Core, ASP.NET MVC/Web API  
-- Entity Framework, SQL  
+- Entity Framework, SQL, Swagger, Postman  
 - OOP, SOLID principles  
-- JavaScript (basic), Git, Swagger  
+- HTML/CSS, JavaScript, Angular  
 - English (Intermediate), Ukrainian (Native)
 
 ## 📚 Education & Courses
